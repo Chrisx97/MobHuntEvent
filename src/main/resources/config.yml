@@ -1,0 +1,81 @@
+# Setting this to true will enable a listener that adds a metadata to all mobs
+# spawned by spawners so that the event can ignore them. This will prevent
+# players from cheesing the event by standing at their mob grinders.
+# Recommended: true
+ignore-spawner-mobs: true
+
+# This list technically supports anything that is an "EntityType"
+# Points value must be an integer
+Mobs:
+  AXOLOTL: 5
+  BAT: 5
+  BEE: 5
+  BLAZE: 5
+  CAT: 5
+  CAVE_SPIDER: 5
+  CHICKEN: 5
+  COD: 5
+  COW: 5
+  CREEPER: 5
+  DOLPHIN: 5
+  DONKEY: 5
+  DROWNED: 5
+  ELDER_GUARDIAN: 5
+  ENDER_DRAGON: 5
+  ENDERMAN: 5
+  ENDERMITE: 5
+  EVOKER: 5
+  FOX: 5
+  FROG: 5
+  GHAST: 5
+  GLOW_SQUID: 5
+  GOAT: 5
+  GUARDIAN: 5
+  HOGLIN: 5
+  HORSE: 5
+  HUSK: 5
+  LLAMA: 5
+  MAGMA_CUBE: 5
+  MUSHROOM_COW: 5
+  MULE: 5
+  OCELOT: 5
+  PANDA: 5
+  PARROT: 5
+  PHANTOM: 5
+  PIG: 5
+  PIGLIN: 5
+  PIGLIN_BRUTE: 5
+  PILLAGER: 5
+  POLAR_BEAR: 5
+  PUFFERFISH: 5
+  RABBIT: 5
+  RAVAGER: 5
+  SALMON: 5
+  SHEEP: 5
+  SHULKER: 5
+  SILVERFISH: 5
+  SKELETON: 5
+  SKELETON_HORSE: 5
+  SLIME: 5
+  SPIDER: 5
+  SQUID: 5
+  STRAY: 5
+  STRIDER: 5
+  TADPOLE: 5
+  TRADER_LLAMA: 5
+  TROPICAL_FISH: 5
+  TURTLE: 5
+  VEX: 5
+  VILLAGER: 5
+  VINDICATOR: 5
+  WANDERING_TRADER: 5
+  WARDEN: 5
+  WITCH: 5
+  WITHER: 5
+  WITHER_SKELETON: 5
+  WOLF: 5
+  ZOGLIN: 5
+  ZOMBIE: 5
+  ZOMBIE_HORSE: 5
+  ZOMBIE_VILLAGER: 5
+  ZOMBIFIED_PIGLIN: 5
